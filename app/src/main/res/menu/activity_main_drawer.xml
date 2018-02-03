@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_action_home"
+            android:title="@string/home" />
+        <item
+            android:id="@+id/nav_schedule"
+            android:icon="@drawable/ic_action_jadwal"
+            android:title="@string/schedule" />
+        <item
+            android:id="@+id/nav_training"
+            android:icon="@drawable/ic_action_training"
+            android:title="@string/training" />
+        <item
+            android:id="@+id/nav_register"
+            android:icon="@drawable/ic_action_haha"
+            android:title="@string/register" />
+    </group>
+
+    <item android:title="Informasi">
+        <menu>
+            <item
+                android:id="@+id/nav_contact"
+                android:icon="@drawable/ic_action_kontak"
+                android:title="@string/contact_us" />
+            <item
+                android:id="@+id/nav_email"
+                android:icon="@drawable/ic_action_mail"
+                android:title="@string/e_mail" />
+        </menu>
+    </item>
+
+</menu>

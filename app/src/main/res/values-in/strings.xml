@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Aplikasi IDN</string>
+
+    <string name="navigation_drawer_open">Buka Navigasi</string>
+    <string name="navigation_drawer_close">Tutup Navigasi</string>
+
+    <string name="action_settings">Pengaturan</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hallo Fragmen Kosong</string>
+    <string name="home">Halaman Utama</string>
+    <string name="schedule">Jadwal</string>
+    <string name="training">Pelatihan</string>
+    <string name="register">Daftar Online</string>
+    <string name="contact_us">Hubungi Kami</string>
+    <string name="e_mail">E-mail</string>
+</resources>
